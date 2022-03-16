@@ -15,11 +15,11 @@ This code provides a pytorch implementation of RSP.
 When using this code, please cite our paper.
 
 	@inproceedings{nam2021interpreting,
-  title={Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations},
-  author={Nam, Woo-Jeoung and Choi, Jaesik and Lee, Seong-Whan},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={13},
-  pages={11604--11612},
-  year={2021}
-  }
+	  title={Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations},
+	  author={Nam, Woo-Jeoung and Choi, Jaesik and Lee, Seong-Whan},
+	  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+	  volume={35},
+	  number={13},
+	  pages={11604--11612},
+	  year={2021}
+	  }
