@@ -1,6 +1,8 @@
 # Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations [AAAI 2021]
 
+
 Detail description of this method is provided in our paper https://arxiv.org/abs/2012.03434.
+
 This code provides a pytorch implementation of RSP.
 
 ![Alt text](/Fig.png)
